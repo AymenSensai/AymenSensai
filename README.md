@@ -17,3 +17,4 @@ I am a Mobile Developer ( Flutter / Android ) who can do his own backend.
 
 ## Examples of Work
 ![](https://github.com/AymenSensai/AymenSensai/blob/main/mockups.jpg)
+<img src="https://github.com/AymenSensai/AymenSensai/blob/main/mockup-video.gif" width="512" >
